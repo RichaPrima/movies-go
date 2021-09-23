@@ -2,7 +2,7 @@
   "name": "movies-go",
   "version": "0.1.0",
   "private": true,
-  "home": "http://RichaPrima.github.io/movies-go",
+  "homepage": "http://RichaPrima.github.io/movies-go",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",

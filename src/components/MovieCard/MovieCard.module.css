@@ -1,0 +1,79 @@
+.main {
+  max-width: 380px;
+  background-color: #232c45;
+  border-radius: 16px 16px 0px 0px;
+  box-shadow: 0 3.7px 30.4px #00000d;
+  height: 100%;
+}
+
+.moviePoster {
+  object-fit: contain;
+  width: 100%;
+  border-radius: 16px 16px 0px 0px;
+}
+
+.movieInfo {
+  padding: 20px;
+}
+
+.movieName {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.movieReview {
+  margin-top: 10px;
+}
+
+.movieRatings img {
+  margin-right: 7px;
+}
+
+.movieRatings {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 16px;
+  color: #b5b5b5;
+  margin-right: 11px;
+}
+
+.movieReviewSeparator {
+  color: #455787;
+  font-weight: 600;
+  font-size: 18px;
+  margin-right: 7px;
+}
+
+.movieVotes {
+  vertical-align: center;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 16px;
+  color: #455787;
+}
+
+.movieVotes img {
+  margin-left: 5px;
+}
+
+.movieReleased {
+  margin-top: 26px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+  color: #455787;
+  /* margin-top: auto; */
+}
+
+.movieReleased img {
+  margin-right: 7px;
+}
+
+.movieDate {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 16px;
+  color: #b5b5b5;
+}

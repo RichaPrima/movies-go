@@ -1,0 +1,17 @@
+.searchbar {
+  background: #424b69;
+  padding: 12px 20px;
+  border-radius: 78px;
+  display: flex;
+  gap: 8px;
+  justify-content: space-between;
+}
+
+.searchbar input {
+  background: inherit;
+  padding: 0;
+  font-size: 16px;
+  color: #a4a4a4;
+  border: none;
+  outline: none;
+}

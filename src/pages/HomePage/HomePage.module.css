@@ -1,0 +1,52 @@
+.main {
+  padding: 30px 30px 50px;
+  max-width: 1024px;
+  margin: auto;
+}
+
+.main h1 {
+  margin: 50px 0 0;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 48px;
+  color: #ff9800;
+}
+
+.movieContainer {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+  gap: 50px 60px;
+}
+
+.message {
+  font-size: 48px;
+  margin-top: 48px;
+  font-weight: 500;
+  color: #ffffff;
+  text-align: center;
+}
+
+@media only screen and (max-width: 1024px) {
+  .movieContainer {
+    gap: 50px 30px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .movieContainer {
+    grid-template-columns: 1fr 1fr;
+    gap: 80px 50px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .main h1 {
+    text-align: center;
+  }
+  .movieContainer {
+    grid-template-columns: auto;
+    gap: 50px;
+  }
+}

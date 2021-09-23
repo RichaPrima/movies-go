@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/movies-go/static/css/main.a3fdf563.chunk.css",
+    "main.css": "/movies-go/static/css/main.036bf392.chunk.css",
     "main.js": "/movies-go/static/js/main.b6318123.chunk.js",
     "main.js.map": "/movies-go/static/js/main.b6318123.chunk.js.map",
     "runtime-main.js": "/movies-go/static/js/runtime-main.8328516e.js",
@@ -10,7 +10,7 @@
     "static/js/3.fe1f624c.chunk.js": "/movies-go/static/js/3.fe1f624c.chunk.js",
     "static/js/3.fe1f624c.chunk.js.map": "/movies-go/static/js/3.fe1f624c.chunk.js.map",
     "index.html": "/movies-go/index.html",
-    "static/css/main.a3fdf563.chunk.css.map": "/movies-go/static/css/main.a3fdf563.chunk.css.map",
+    "static/css/main.036bf392.chunk.css.map": "/movies-go/static/css/main.036bf392.chunk.css.map",
     "static/js/2.836398ea.chunk.js.LICENSE.txt": "/movies-go/static/js/2.836398ea.chunk.js.LICENSE.txt",
     "static/media/calendar.82ace947.svg": "/movies-go/static/media/calendar.82ace947.svg",
     "static/media/logo.31f05e23.svg": "/movies-go/static/media/logo.31f05e23.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.8328516e.js",
     "static/js/2.836398ea.chunk.js",
-    "static/css/main.a3fdf563.chunk.css",
+    "static/css/main.036bf392.chunk.css",
     "static/js/main.b6318123.chunk.js"
   ]
 }

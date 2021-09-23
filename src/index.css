@@ -1,7 +1,6 @@
 body {
   margin: 0;
   font-family: "DM Sans", sans-serif;
-  /* background: linear-gradient(252.02deg, #192038 -0.13%, #323f61 84.46%) no-repeat; */
   background: linear-gradient(252.02deg,#f9f9f942 -.13%,#323f61 84.46%) no-repeat;
   min-height: 100vh;
 }
